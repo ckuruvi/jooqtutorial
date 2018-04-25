@@ -1,6 +1,7 @@
 # *Setup Instructions*
 
  1. Download and Install Java 8  & IntelliJ IDEA Community Edition.
+ 2. Use git to clone the repository (https://github.com/ckuruvi/jooqtutorial.git).
  2. Open project in IntelliJ ( make sure you select the pom.xml file before clicking OK)
  3. Goto MyMainClass.java and run the file as a stand-alone java application from IntelliJ. You should see the following output.
 
