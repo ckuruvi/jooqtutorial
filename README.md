@@ -23,6 +23,8 @@
        * User Name: sa
        * Password: sa
 
+ 8. Change JDBC URL from `jdbc:h2:~/test` to 'jdbc:h2:~/bookstore' and click on connect.
+
  8. Copy dbscript.sql from the project into the H2 browser console and execute the script.
  9. Click on the disconnect button on the top left corner of the browser console to shut down H2.
 
