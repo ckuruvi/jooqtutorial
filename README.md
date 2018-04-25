@@ -5,7 +5,7 @@
  3. Open project in IntelliJ ( make sure you select the pom.xml file before clicking OK)
  4. Goto MyMainClass.java and run the file as a stand-alone java application from IntelliJ. You should see the following output.
 
- +----+ /n
+ +----+
  | one|
  +----+
  |   1|
