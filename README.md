@@ -14,7 +14,7 @@
  5. Goto the downloaded h2 database folder and look for h2-1.4.197.jar file. This jar should be under
     /Users/{your user name}/.m2/repository/com/h2database/h2/1.4.197
  6. Execute the following command.
-        * > java -jar h2-1.4.197.jar
+       * java -jar h2-1.4.197.jar
 
  7. You should see an H2 console open on the browser with the following.
 
