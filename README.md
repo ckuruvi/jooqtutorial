@@ -5,11 +5,11 @@
  3. Open project in IntelliJ ( make sure you select the pom.xml file before clicking OK)
  4. Goto MyMainClass.java and run the file as a stand-alone java application from IntelliJ. You should see the following output.
 
-* +----+
-* | one|
-* +----+
-* |  1 |
-* +----+
+    * `+----+`
+    * `| one|`
+    * `+----+`
+    * `|  1 |`
+    * `+----+`
 
  5. Goto the downloaded h2 database folder and look for `h2-1.4.197.jar` file. This jar should be under
     `/Users/{your user name}/.m2/repository/com/h2database/h2/1.4.197`
