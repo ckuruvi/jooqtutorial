@@ -1,0 +1,9 @@
+# Do not put the following folders into source control
+target/
+.idea/
+
+# Do not put the following files into source control
+*.iml
+*.eml
+
+
